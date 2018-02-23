@@ -1,5 +1,5 @@
 {
-  "name": "comp397-w2018-lesson1b",
+  "name": "comp397-w2018-lesson2b",
   "version": "0.0.1",
   "description": "",
   "main": "index.js",
@@ -8,15 +8,26 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/CentennialCollege/COMP397-W2018-Lesson1B.git"
+    "url": "git+https://github.com/vineesh92/DraganSlayer"
   },
-  "author": "Tom Tsiliopoulos <tsiliopoulos@hotmail.com>",
+  "author": "Vineesh Methil <vineesh.methil@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/CentennialCollege/COMP397-W2018-Lesson1B/issues"
+    "url": "https://github.com/vineesh92/DraganSlayer"
   },
-  "homepage": "https://github.com/CentennialCollege/COMP397-W2018-Lesson1B#readme",
+  "homepage": "https://github.com/vineesh92/DraganSlayer",
   "devDependencies": {
     "@types/easeljs": "^1.0.0"
+  },
+  "dependencies": {
+    "@types/preloadjs": "^0.6.32",
+    "@types/soundjs": "^0.6.27",
+    "@types/tweenjs": "^0.6.27",
+    "add": "^2.0.6",
+    "easeljs": "^1.0.2",
+    "preloadjs": "^1.0.1",
+    "save-dev": "^2.0.0",
+    "soundjs": "^1.0.1",
+    "tweenjs": "^1.0.2"
   }
 }
